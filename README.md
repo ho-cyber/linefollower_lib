@@ -1,5 +1,4 @@
-markdown
-Copy code
+
 # LineFollower Arduino Library
 
 This library simplifies the process of making line follower robots using Arduino. It provides methods to set up the necessary pins and control the motors based on line sensor readings.
